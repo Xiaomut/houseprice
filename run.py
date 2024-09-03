@@ -61,7 +61,7 @@ def fetch_data(url):
 
 
 # 目标网页URL  
-url = 'https://www.stats.gov.cn/xxgk/sjfb/zxfb2020/202405/t20240517_1950386.html'
-basepath = "datas/m4/april"
+url = 'https://www.stats.gov.cn/xxgk/sjfb/zxfb2020/202403/t20240322_1948125.html'
+basepath = "datas/m2/feb"
 
 fetch_data(url)
